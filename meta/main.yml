@@ -1,6 +1,7 @@
 ---
 galaxy_info:
   role_name: monitoring
+  namespace: 4linux-ansible
   author: 4linux-ansible
   description: Monitoramento da Aplicação Dexter
   company: 4Linux
